@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Jugney Vargas - desarrollador de sistemas web, moviles y tiempo real" width="100%" />
 </p>
 
 # Jugney Vargas
